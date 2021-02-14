@@ -1,9 +1,9 @@
 <h2 align="center"> <b> Hi there </br></h2>
 
-
-
-
 <!---
+![banner](https://www.e4k.co/wp-content/uploads/2019/07/Software-Development-Resized.jpeg)
+
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sebas-mora28&label=Profile%20views&color=0e75b6&style=flat%22" alt="xtenzq"/>
 </p>
