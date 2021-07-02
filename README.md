@@ -8,9 +8,13 @@
 
 
 <a href="https://twitter.com/sebasmora_2000">
-  <img align="left" alt="migue_mesen | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="sebasmora_2000 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
+
+<a href="https://www.linkedin.com/in/sebastián-mora-god%C3%ADnez/">
+  <img align="left" alt="Sebastian's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 
 </br>
